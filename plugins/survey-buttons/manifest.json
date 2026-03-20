@@ -1,0 +1,8 @@
+{
+  "id": "survey-buttons",
+  "name": "Survey / Rating Buttons",
+  "version": "1.0.0",
+  "description": "Inject tombol survey kepuasan: quick_reply bintang 1–5 + cta_url form panjang — ideal untuk follow-up pelanggan / after-service",
+  "author": "WaPlus",
+  "hooks": ["onLoad", "onUnload", "onBeforeSend", "onConfigChange"]
+}
