@@ -1,0 +1,6 @@
+{
+  "_comment": "Default config for example-plugin. Read via ctx.getData(), write via ctx.setData(obj).",
+  "enabled":     true,
+  "prefix":      "!",
+  "ignoredJids": []
+}
